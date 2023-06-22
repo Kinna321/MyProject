@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-21T23:15:29 CST" name="Amazon" finished-at="2023-06-21T23:15:49 CST" duration-ms="20518">
+    <groups>
+    </groups>
+    <test started-at="2023-06-21T23:15:29 CST" name="TestNG" finished-at="2023-06-21T23:15:49 CST" duration-ms="20518">
+      <class name="testLayer.LoginTest">
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:testLayer.LoginTest@2a65fe7c]" started-at="2023-06-21T23:15:29 CST" name="initsetup" finished-at="2023-06-21T23:15:33 CST" duration-ms="4158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="Title()[pri:1, instance:testLayer.LoginTest@2a65fe7c]" started-at="2023-06-21T23:15:33 CST" name="Title" finished-at="2023-06-21T23:15:33 CST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Title -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.LoginTest@2a65fe7c]" started-at="2023-06-21T23:15:33 CST" name="close" finished-at="2023-06-21T23:15:33 CST" duration-ms="111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:testLayer.LoginTest@2a65fe7c]" started-at="2023-06-21T23:15:34 CST" name="initsetup" finished-at="2023-06-21T23:15:37 CST" duration-ms="3020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="Login(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:testLayer.LoginTest@2a65fe7c]" started-at="2023-06-21T23:15:37 CST" name="Login" data-provider="Details" finished-at="2023-06-21T23:15:39 CST" duration-ms="2091" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kinna]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kinna321@gamil.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1234567.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1234567.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.LoginTest@2a65fe7c]" started-at="2023-06-21T23:15:39 CST" name="close" finished-at="2023-06-21T23:15:39 CST" duration-ms="91" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:testLayer.LoginTest@2a65fe7c]" started-at="2023-06-21T23:15:39 CST" name="initsetup" finished-at="2023-06-21T23:15:42 CST" duration-ms="2978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="Login(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:testLayer.LoginTest@2a65fe7c]" started-at="2023-06-21T23:15:42 CST" name="Login" data-provider="Details" finished-at="2023-06-21T23:15:44 CST" duration-ms="2043" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tom]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tom123@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2345678.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2345678.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.LoginTest@2a65fe7c]" started-at="2023-06-21T23:15:44 CST" name="close" finished-at="2023-06-21T23:15:44 CST" duration-ms="133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:testLayer.LoginTest@2a65fe7c]" started-at="2023-06-21T23:15:44 CST" name="initsetup" finished-at="2023-06-21T23:15:47 CST" duration-ms="3027" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="Login(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:testLayer.LoginTest@2a65fe7c]" started-at="2023-06-21T23:15:47 CST" name="Login" data-provider="Details" finished-at="2023-06-21T23:15:49 CST" duration-ms="2112" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[aabc@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3456789.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[3456789.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.LoginTest@2a65fe7c]" started-at="2023-06-21T23:15:49 CST" name="close" finished-at="2023-06-21T23:15:49 CST" duration-ms="99" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testLayer.LoginTest -->
+    </test> <!-- TestNG -->
+  </suite> <!-- Amazon -->
+</testng-results>
